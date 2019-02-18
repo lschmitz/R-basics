@@ -23,7 +23,9 @@ and never
 
   `10 -> x`
 
-The latter will work, but makes virtually unreadable code. For more information on operators, please refer to this great [resource](https://www.statmethods.net/management/operators.html).
+The latter will work, but makes virtually unreadable code and you really do not want that. 
+
+For more information on operators, please refer to this great [resource](https://www.statmethods.net/management/operators.html).
 
 
 
@@ -35,7 +37,7 @@ If you need more details on a function and its usage, you can always call the he
   
 For example, try 
 
-  `?rnorm` or `?getwd`
+  `?mean` or `?getwd`
   
 
 # Always annotate your script, however easy and short it may be
