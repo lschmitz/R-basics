@@ -24,3 +24,30 @@ and never
   `10 -> x`
 
 The latter will work, but makes virtually unreadable code. For more information on operators, please refer to this great [resource](https://www.statmethods.net/management/operators.html).
+
+
+
+# R help is your friend
+
+If you need more details on a function and its usage, you can always call the help file by typing 
+
+  `?<name of function>`
+  
+For example, try 
+
+  `?rnorm` or `?getwd`
+  
+
+# Always annotate your script, however easy and short it may be
+
+Be nice to your future self and explain what you are doing. You may return to a script file in a year and, without comments, may find it hard to understand.
+
+You can add annotations to your script file very easily: any text preced by `#` will be ignored by R.
+
+`# The next line defines the value of x`
+
+`x <- 12`
+
+
+
+*Please let me know if you have additional items that should be added to this section.*
