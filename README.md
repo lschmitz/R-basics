@@ -5,5 +5,5 @@ Some quick suggestions for getting started in R.
 
 ## 1. [Install R](R-basics/Installation.md)
 ## 2. [Best practices](R-basics/Best-practices.md)
-## 3. [Install packages]()
-## 4. [Set your working directory]()
+## 3. [Install packages](R-basics/Packages.md)
+## 4. [Set your working directory](Working-directory.md)
